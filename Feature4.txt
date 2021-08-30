@@ -1,4 +1,0 @@
-metodo 4
-{
-  buenas, buenas
-}

@@ -1,4 +1,0 @@
-metodo3
-{
-  trabajando ando
-}
